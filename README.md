@@ -12,11 +12,11 @@ It uses Python and NetworkX to build and visualize the graph based on triples da
 ## How to run
 1. Open the RoboticsKnowledgeGrpah (https://colab.research.google.com/drive/1UDBXTwaNNO3nc4guniy9KJ8HU68omLPa?usp=sharing) notebook in Google Colab 
 2. Run all cells to see the graph visualization
-3. The grap is saved automatically in the notebook
+3. The graph is saved automatically in the notebook
 
 ## Files
 - `RoboticsKnowledgeGrpah`: The full notebook with code and explanations 
-- `README.md`: d\Describing the project
+- `README.md`: Describing the project
 
 ## Technologies used
 - Python  
