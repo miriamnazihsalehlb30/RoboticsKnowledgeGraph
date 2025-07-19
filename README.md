@@ -1,16 +1,16 @@
 # Robotics Knowledge Graph
 
-Creating a knowledge graph to show the relationships between the components in a robotic system 
+This project explores the interconnections between key components of a robotic system using a knowledge graph approach. By representing hardware parts (like motors, sensors, and controllers) and their functional relationships in the form of triples (subject–verb–object), we visualize how different elements of a robot interact and support one another.
 It uses Python and NetworkX to build and visualize the graph based on triples data.
 
 ## Features
 - Builds a directed graph from (subject, relation (verb), object) triples
-- ex: Subject-->[realtion or an action (verb)]-->object / AI Module ──[makes decisions for]──▶ Robot Arm
+- ex: Subject-->[realtion or an action (verb)]-->object / AI Module ──[makes decisions for]--> Robot Arm
 - Visualizes the graph using matplotlib; python Library
 - Helps understand how sensors, motors, and controllers connect
 
 ## How to run
-1. Open the RoboticsKnowledgeGrpah.ipynb (https://colab.research.google.com/drive/1UDBXTwaNNO3nc4guniy9KJ8HU68omLPa?usp=sharing) notebook in Google Colab 
+1. Open the RoboticsKnowledgeGrpah (https://colab.research.google.com/drive/1UDBXTwaNNO3nc4guniy9KJ8HU68omLPa?usp=sharing) notebook in Google Colab 
 2. Run all cells to see the graph visualization
 3. The grap is saved automatically in the notebook
 
