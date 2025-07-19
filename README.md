@@ -5,7 +5,7 @@ It uses Python and NetworkX to build and visualize the graph based on triples da
 
 ## Features
 - Builds a directed graph from (subject, relation (verb), object) triples
-- ex: Subject-->[realtion or an action (verb)]-->object / AI Module ──[makes decisions for]--> Robot Arm
+- i.e: Subject--> [realtion or an action (verb)] -->object / ex: AI Module --> [makes decisions for] --> Robot Arm
 - Visualizes the graph using matplotlib; python Library
 - Helps understand how sensors, motors, and controllers connect
 
